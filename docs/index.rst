@@ -1,11 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://tek.chat/">
+
 How to Contact TND TV Customer Care?: The Ultimate Guide 😊
 ============================================
-.
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 When you're immersed in your favorite shows or live sports on TND TV, a hiccup in streaming, billing issues, or technical glitches can put a damper on your entertainment. That’s where tnd tv customer care comes in handy—helping you quickly resolve issues and get back to enjoying content. This comprehensive guide covers all ways to reach out, what information to prepare, and how to make your contact as smooth as possible.
 
